@@ -1,0 +1,11 @@
+sql_book_id,sql_title,sql_price_gbp,sql_price_inr,sql_rating,sql_in_stock,sql_category_id,sql_category_name,pandas_book_id,pandas_title,pandas_price_gbp,pandas_price_inr,pandas_rating,pandas_in_stock,pandas_category_id,pandas_category_name
+5,Sapiens: A Brief History of Humankind,54.23,5721.265,5,1,5,History,5,Sapiens: A Brief History of Humankind,54.23,5721.265,5,1,5,History
+14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5516.595,5,1,9,Sequential Art,14,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5516.595,5,1,9,Sequential Art
+47,"We Love You, Charlie Freeman",50.27,5303.485,5,1,3,Fiction,47,"We Love You, Charlie Freeman",50.27,5303.485,5,1,3,Fiction
+43,Private Paris (Private #10),47.61,5022.855,5,1,3,Fiction,43,Private Paris (Private #10),47.61,5022.855,5,1,3,Fiction
+29,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,4251.65,5,1,18,Nonfiction,29,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,4251.65,5,1,18,Nonfiction
+15,Rip it Up and Start Again,35.02,3694.61,5,1,10,Music,15,Rip it Up and Start Again,35.02,3694.61,5,1,10,Music
+25,Black Dust,34.53,3642.915,5,1,16,Romance,25,Black Dust,34.53,3642.915,5,1,16,Romance
+24,Chase Me (Paris Nights #2),25.27,2665.985,5,1,16,Romance,24,Chase Me (Paris Nights #2),25.27,2665.985,5,1,16,Romance
+33,The Elephant Tree,23.82,2513.01,5,1,14,Thriller,33,The Elephant Tree,23.82,2513.01,5,1,14,Thriller
+44,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,2438.105,5,1,18,Nonfiction,44,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,2438.105,5,1,18,Nonfiction
