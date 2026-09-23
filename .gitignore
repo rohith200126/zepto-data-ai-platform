@@ -8,3 +8,5 @@ support_assistant/models/
 *.joblib
 *.db
 .env
+
+# Capstone project generated files
