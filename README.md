@@ -28,3 +28,6 @@
 - **Data Pipeline:** Implemented the required data ingestion, transformation, and output steps using Python and related data-processing tools.
 - **Analytics:** Used Python-based analysis and machine-learning workflows to evaluate the project data and generate supporting results.
 - **Support Assistant:** Used document ingestion, retrieval, and model-based processing to provide a support-assistant workflow.
+
+## Data Pipeline Conversion Rate
+- The project uses the required fixed conversion rate of **1 GBP = 105.50 INR** for the price_inr calculation.
