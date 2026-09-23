@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+support_assistant/chroma_db/
+support_assistant/models/
+*.joblib
+*.db
+.env
